@@ -1,0 +1,19 @@
+{
+  "name": "wordstep2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/koa": "^2.0.33",
+    "@types/koa-router": "^7.0.21",
+    "koa": "^2.0.0",
+    "koa-router": "^7.0.1",
+    "mysql2": "^1.1.0"
+  }
+}
